@@ -1,0 +1,3 @@
+# Add under `dependencies:` in pubspec.yaml, then run `flutter pub get`
+  http: ^1.2.0
+  provider: ^6.1.0
